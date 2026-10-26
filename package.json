@@ -1,0 +1,21 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Library Management System (MERN Stack) - Academic Project for InspireLeap",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "tunnel": "\"C:\\Program Files (x86)\\cloudflared\\cloudflared.exe\" tunnel --url http://localhost:5000",
+    "install:all": "npm --prefix server install && npm --prefix client install"
+  },
+  "keywords": [
+    "mern",
+    "library-management-system",
+    "react",
+    "express",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Ramya Sri",
+  "license": "ISC"
+}

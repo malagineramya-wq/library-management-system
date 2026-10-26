@@ -1,0 +1,247 @@
+{
+  "books": [
+    {
+      "_id": "5fd0da33075ddbebe6f35787",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "category": "Computer Science",
+      "isbn": "978-0132350884",
+      "quantity": 5,
+      "availableQuantity": 4,
+      "createdAt": "2026-10-26T09:03:10.589Z",
+      "updatedAt": "2026-10-26T09:03:10.590Z"
+    },
+    {
+      "_id": "18e38a814aba7c13a1edcf57",
+      "title": "The Pragmatic Programmer: Your Journey to Mastery",
+      "author": "David Thomas, Andrew Hunt",
+      "category": "Computer Science",
+      "isbn": "978-0135957059",
+      "quantity": 4,
+      "availableQuantity": 3,
+      "createdAt": "2026-10-26T09:03:10.590Z",
+      "updatedAt": "2026-10-26T09:03:10.590Z"
+    },
+    {
+      "_id": "99079b728656d77e4dbede3e",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "isbn": "978-0060935467",
+      "quantity": 3,
+      "availableQuantity": 2,
+      "createdAt": "2026-10-26T09:03:10.590Z",
+      "updatedAt": "2026-10-26T09:14:06.550Z"
+    },
+    {
+      "_id": "e955dfaf02d84b60cdb13fa1",
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "category": "Computer Science",
+      "isbn": "978-0201633610",
+      "quantity": 3,
+      "availableQuantity": 2,
+      "createdAt": "2026-10-26T09:03:10.590Z",
+      "updatedAt": "2026-10-26T09:03:10.590Z"
+    },
+    {
+      "_id": "9076ef2f05244a339f0e8dd7",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "History",
+      "isbn": "978-0062316097",
+      "quantity": 6,
+      "availableQuantity": 6,
+      "createdAt": "2026-10-26T09:03:10.590Z",
+      "updatedAt": "2026-10-26T09:03:10.590Z"
+    },
+    {
+      "_id": "f60e6234b53eb7230e291999",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "isbn": "978-0735211292",
+      "quantity": 5,
+      "availableQuantity": 4,
+      "createdAt": "2026-10-26T09:03:10.590Z",
+      "updatedAt": "2026-10-26T09:03:10.590Z"
+    },
+    {
+      "_id": "68eae23dba7cefb9fdc0df54",
+      "title": "Introduction to Algorithms (CLRS)",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "category": "Computer Science",
+      "isbn": "978-0262033848",
+      "quantity": 4,
+      "availableQuantity": 4,
+      "createdAt": "2026-10-26T09:03:10.590Z",
+      "updatedAt": "2026-10-26T09:03:10.590Z"
+    },
+    {
+      "_id": "c020ac216afd1091e93ee49b",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "isbn": "978-0743273565",
+      "quantity": 4,
+      "availableQuantity": 4,
+      "createdAt": "2026-10-26T09:03:10.590Z",
+      "updatedAt": "2026-10-26T09:03:10.590Z"
+    },
+    {
+      "_id": "da866635c6d4aba14d5bcb03",
+      "title": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "category": "Computer Science",
+      "isbn": "978-0134494166",
+      "quantity": 3,
+      "availableQuantity": 3,
+      "createdAt": "2026-10-26T09:04:17.165Z",
+      "updatedAt": "2026-10-26T09:20:54.444Z"
+    },
+    {
+      "_id": "4b687ed9c3b7b4fb8dc18a72",
+      "title": "Refactoring: Improving Code Design",
+      "author": "Martin Fowler",
+      "category": "Computer Science",
+      "isbn": "978-0201485677",
+      "quantity": 3,
+      "availableQuantity": 3,
+      "createdAt": "2026-10-26T09:07:00.804Z",
+      "updatedAt": "2026-10-26T09:07:00.862Z"
+    }
+  ],
+  "members": [
+    {
+      "_id": "22b1d901e4016cf8a3ac9db7",
+      "name": "Ramya Sri",
+      "email": "ramya.sri@example.com",
+      "phone": "+91 98765 43210",
+      "membershipDate": "2024-01-15T00:00:00.000Z",
+      "createdAt": "2026-10-26T09:03:10.598Z",
+      "updatedAt": "2026-10-26T09:03:10.598Z"
+    },
+    {
+      "_id": "67fdd8db21f31be8afd786ae",
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "phone": "+1 555-0199",
+      "membershipDate": "2024-02-10T00:00:00.000Z",
+      "createdAt": "2026-10-26T09:03:10.598Z",
+      "updatedAt": "2026-10-26T09:03:10.598Z"
+    },
+    {
+      "_id": "2099af4d546f57a0ea9f2a71",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "phone": "+91 91234 56789",
+      "membershipDate": "2024-03-01T00:00:00.000Z",
+      "createdAt": "2026-10-26T09:03:10.598Z",
+      "updatedAt": "2026-10-26T09:03:10.598Z"
+    },
+    {
+      "_id": "c4d7e0beaa387678de66f201",
+      "name": "Marcus Vance",
+      "email": "marcus.v@example.com",
+      "phone": "+44 20 7946 0958",
+      "membershipDate": "2024-04-12T00:00:00.000Z",
+      "createdAt": "2026-10-26T09:03:10.598Z",
+      "updatedAt": "2026-10-26T09:03:10.598Z"
+    },
+    {
+      "_id": "4597fde8a245d179f582620c",
+      "name": "Sarah Connor",
+      "email": "sarah.connor@example.com",
+      "phone": "+1 555-4321",
+      "membershipDate": "2026-10-26T09:04:17.179Z",
+      "createdAt": "2026-10-26T09:04:17.179Z",
+      "updatedAt": "2026-10-26T09:04:17.179Z"
+    },
+    {
+      "_id": "d6ba535bc2d5060ba5652030",
+      "name": "David Miller",
+      "email": "david.miller@example.com",
+      "phone": "+1 555-8899",
+      "membershipDate": "2026-10-26T09:07:00.843Z",
+      "createdAt": "2026-10-26T09:07:00.843Z",
+      "updatedAt": "2026-10-26T09:07:00.843Z"
+    },
+    {
+      "_id": "d917ae97091ab1ce681f1461",
+      "name": "Malagine Ramya",
+      "email": "malagineramya@gmail.com",
+      "phone": "06301294168",
+      "membershipDate": "2026-10-26T09:13:31.698Z",
+      "createdAt": "2026-10-26T09:13:31.698Z",
+      "updatedAt": "2026-10-26T09:13:31.698Z"
+    }
+  ],
+  "transactions": [
+    {
+      "_id": "fb4f82a939352abae7af13d6",
+      "bookId": "5fd0da33075ddbebe6f35787",
+      "memberId": "22b1d901e4016cf8a3ac9db7",
+      "issueDate": "2026-10-21T09:03:10.602Z",
+      "status": "Issued",
+      "createdAt": "2026-10-26T09:03:10.603Z",
+      "updatedAt": "2026-10-26T09:03:10.603Z"
+    },
+    {
+      "_id": "f24a5b37f306ed2a663534b1",
+      "bookId": "18e38a814aba7c13a1edcf57",
+      "memberId": "67fdd8db21f31be8afd786ae",
+      "issueDate": "2026-10-23T09:03:10.602Z",
+      "status": "Issued",
+      "createdAt": "2026-10-26T09:03:10.603Z",
+      "updatedAt": "2026-10-26T09:03:10.603Z"
+    },
+    {
+      "_id": "6c7ec1a6a548126fa1c8bc5d",
+      "bookId": "e955dfaf02d84b60cdb13fa1",
+      "memberId": "2099af4d546f57a0ea9f2a71",
+      "issueDate": "2026-10-24T09:03:10.602Z",
+      "status": "Issued",
+      "createdAt": "2026-10-26T09:03:10.603Z",
+      "updatedAt": "2026-10-26T09:03:10.603Z"
+    },
+    {
+      "_id": "fd6fd1941803410bee33dc2f",
+      "bookId": "f60e6234b53eb7230e291999",
+      "memberId": "c4d7e0beaa387678de66f201",
+      "issueDate": "2026-10-12T09:03:10.602Z",
+      "returnDate": "2026-10-24T09:03:10.602Z",
+      "status": "Returned",
+      "createdAt": "2026-10-26T09:03:10.603Z",
+      "updatedAt": "2026-10-26T09:03:10.603Z"
+    },
+    {
+      "_id": "b07da55612a1c09ca22c5dc0",
+      "bookId": "da866635c6d4aba14d5bcb03",
+      "memberId": "4597fde8a245d179f582620c",
+      "issueDate": "2026-10-26T09:04:17.188Z",
+      "status": "Returned",
+      "createdAt": "2026-10-26T09:04:17.188Z",
+      "updatedAt": "2026-10-26T09:20:54.441Z",
+      "returnDate": "2026-10-26T09:20:54.441Z"
+    },
+    {
+      "_id": "f0867405258b3230db77c013",
+      "bookId": "4b687ed9c3b7b4fb8dc18a72",
+      "memberId": "d6ba535bc2d5060ba5652030",
+      "issueDate": "2026-10-26T09:07:00.851Z",
+      "status": "Returned",
+      "createdAt": "2026-10-26T09:07:00.851Z",
+      "updatedAt": "2026-10-26T09:07:00.860Z",
+      "returnDate": "2026-10-26T09:07:00.860Z"
+    },
+    {
+      "_id": "fb319743722cf43ac1a28d96",
+      "bookId": "99079b728656d77e4dbede3e",
+      "memberId": "22b1d901e4016cf8a3ac9db7",
+      "issueDate": "2026-10-26T09:14:06.552Z",
+      "status": "Issued",
+      "createdAt": "2026-10-26T09:14:06.552Z",
+      "updatedAt": "2026-10-26T09:14:06.552Z"
+    }
+  ]
+}
