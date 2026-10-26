@@ -74,7 +74,7 @@ const startServer = async () => {
     await connectDB();
     await seedInitialData();
 
-    app.listen(PORT, () => {
+    app.listen(PORT, '0.0.0.0', () => {
       console.log(`===============================================`);
       console.log(`  Library Management System Server Running     `);
       console.log(`  Full-Stack App: http://localhost:${PORT}      `);
