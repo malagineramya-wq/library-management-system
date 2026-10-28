@@ -50,7 +50,7 @@ export const Dashboard = ({ setActiveTab, openAddBookModal, openAddMemberModal }
       <div className="glass-card" style={{ textAlign: 'center', borderColor: 'rgba(244, 63, 94, 0.4)' }}>
         <h3 style={{ color: 'var(--accent-rose)', marginBottom: 8 }}>Connection Note</h3>
         <p style={{ color: 'var(--text-secondary)', marginBottom: 16 }}>
-          Could not connect to backend server ({error}). Make sure the backend is running at http://localhost:5000.
+          Could not connect to backend server ({error}). Make sure the backend is running at http://library-managment-api-ykew.onrender.com.
         </p>
         <button onClick={loadStats} className="btn btn-primary">
           Retry Connection
